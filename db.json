@@ -31,7 +31,7 @@
     { "id": 9, "imgPath": "https://dummyimage.com/qvga", "albumId": 3 },
     { "id": 10, "imgPath": "https://dummyimage.com/300", "albumId": 4 },
     { "id": 11, "imgPath": "https://dummyimage.com/640x4:3/", "albumId":5 },
-    { "id": 12, "imgPath": "https://dummyimage.com/qvga", "albumId": 6 }
+    { "id": 12, "imgPath": "https://dummyimage.com/qvga", "albumId": 6 },
     { "id": 13, "imgPath": "https://dummyimage.com/300", "albumId": 1 },
     { "id": 14, "imgPath": "https://dummyimage.com/640x4:3/", "albumId": 1 },
     { "id": 15, "imgPath": "https://dummyimage.com/qvga", "albumId": 1 }
