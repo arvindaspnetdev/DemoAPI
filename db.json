@@ -20,7 +20,7 @@
     { "id": 11, "albumName": "Gallary Art", "userId":5 },
     { "id": 12, "albumName": "Studio Art", "userId": 6 }
   ],
-  photoes": [
+  "photoes": [
     { "id": 1, "imgPath": "https://dummyimage.com/300", "albumId": 1 },
     { "id": 2, "imgPath": "https://dummyimage.com/640x4:3/", "albumId": 1 },
     { "id": 3, "imgPath": "https://dummyimage.com/qvga", "albumId": 1 },
